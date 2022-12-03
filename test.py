@@ -1,1 +1,1 @@
-print('cored')
+print('coregd')
