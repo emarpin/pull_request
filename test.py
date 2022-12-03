@@ -1,1 +1,1 @@
-print('core')
+print('cored')
